@@ -6,4 +6,3 @@ demo folder to show github functionalities
 **this is docs branch**
 
 ## contributors
- H i it datta
